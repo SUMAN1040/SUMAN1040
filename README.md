@@ -26,8 +26,12 @@
 
 💻 Languages & Contributions
 <div align="center"> <a href="https://github.com/suman1040"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suman1040&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&langs_count=8" width="48%" /> </a> </div>
-🌟 Contribution Activity
-<div align="center"> <a href="https://github.com/suman1040"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman1040&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6600&line=F75C7E&point=FFFFFF" width="90%" /> </a> </div>
+🌟 **Contribution Insights**
+<div align="center">
+  <a href="https://github.com/suman1040">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman1040&bg_color=000000&color=f1c40f&line=ff5733&point=ffffff&area=true&hide_border=true&theme=high-contrast" width="90%" />
+  </a>
+</div>
 
 ---
 

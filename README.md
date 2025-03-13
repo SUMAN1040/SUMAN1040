@@ -20,7 +20,10 @@
 
 
 📊 GitHub Stats
-<div align="center"> <a href="https://github.com/suman1040"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman1040&theme=tokyonight&hide_border=true&border_radius=10&fire=F75C7E&ring=FFCC00" width="48%" /> </a> <a href="https://github.com/suman1040"> <img src="https://github-readme-stats.vercel.app/api?username=suman1040&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" /> </a> </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suman1040&show_icons=true&theme=react&hide_border=true" width="48%" />
+</p>
+
 💻 Languages & Contributions
 <div align="center"> <a href="https://github.com/suman1040"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suman1040&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&langs_count=8" width="48%" /> </a> </div>
 🌟 Contribution Activity

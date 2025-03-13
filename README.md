@@ -1,37 +1,74 @@
-<h1 align="center">Hi 👋, I'm Suman Kumar Dey</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=1&pause=8000000000&color=00ccff&center=true&vCenter=true&width=600&height=50&lines=👋+Hey,+I'm+Suman+Kumar+Dey!">
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suman1040&label=Profile%20views&color=0e75b6&style=flat" alt="suman1040" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman1040" alt="suman1040" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 💬 Ask me about **Android Development**
 
-- 📫 How to reach me **skdeyofficial2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sumande14063037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumande14063037" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suman1040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman1040" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25301567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25301567" height="30" width="40" /></a>
-<a href="https://fb.com/100094065829955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100094065829955" height="30" width="40" /></a>
-<a href="https://instagram.com/funny24.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="funny24.io" height="30" width="40" /></a>
-<a href="https://medium.com/@suman1040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suman1040" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/innox1040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="innox1040" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/suman1040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suman1040" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/uemj2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uemj2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zt3vt4tkpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zt3vt4tkpk" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/suman1040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suman1040" height="30" width="40" /></a>
-<a href="https://discord.gg/suman_11112003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="suman_11112003" height="30" width="40" /></a>
+
+
+
+<h3 align="center">A Passionate Android Developer</h3>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway+Code&weight=600&size=22&duration=1000&pause=800&color=FF4500&center=true&vCenter=true&width=700&height=50&lines=🚀+Android+Developer;🤖+AI+%26+ML+Enthusiast;💡+Tech+Innovator;🔥+Pushing+Limits;🌍+Building+for+Impact!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suman1040&show_icons=true&locale=en&layout=compact" alt="suman1040" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suman1040&show_icons=true&locale=en" alt="suman1040" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman1040&" alt="suman1040" /></p>
+
+
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman1040&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suman1040&show_icons=true&theme=react&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suman1040&show_icons=true&theme=react&layout=compact&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/suman1040"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/sumande14063037"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/25301567"><img src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="https://www.leetcode.com/zt3vt4tkpk"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://medium.com/@suman1040"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.youtube.com/c/innox1040"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+
+---
+
+### 🚀 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,cpp,c,git,github,linux,mysql,firebase,figma,sqlite,arduino,vscode" />
+</p>
+
+---
+
+### 🎮 Fun & Dynamic Stuff
+- 🔥 Check out my **3D GitHub Skyline**: [My Contributions in 3D](https://skyline.github.com/suman1040)
+- 🏆 **GitHub Trophy** (More Achievements):  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=suman1040&theme=onedark&no-frame=true&margin-w=15" />
+  </p>
+
+---
+
+### ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>

@@ -76,7 +76,11 @@
 
 ---
 
-### ✨ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+- ✨ **Daily Coding Motivation**
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </p>
+
+  🔥 *"Simplicity is the soul of efficiency."* – Austin Freeman  
+
+

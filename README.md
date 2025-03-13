@@ -65,7 +65,8 @@
 
 
 ### 🎮 Fun & Dynamic Stuff
-🔥 Check out my **GitHub Profile Summary**: [View Insights](https://profile-summary-for-github.com/user/suman1040)
+🚀 Explore my **GitHub Contribution Graph**: [See My Activity](https://github.com/suman1040/graph)
+
 
 - 🏆 **GitHub Trophy** (More Achievements):  
   <p align="center">

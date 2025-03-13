@@ -65,7 +65,7 @@
 
 
 ### 🎮 Fun & Dynamic Stuff
-🎉 Relive my **GitHub Wrapped**: [See My Year in Code](https://wrapped.github.com/suman1040)
+🔥 Check out my **GitHub Profile Summary**: [View Insights](https://profile-summary-for-github.com/user/suman1040)
 
 
 - 🏆 **GitHub Trophy** (More Achievements):  

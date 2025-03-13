@@ -65,8 +65,7 @@
 
 
 ### 🎮 Fun & Dynamic Stuff
-🌟 Discover my **GitHub Heatmap**: [Check it Out](https://github.com/suman1040/heatmap)
-
+🎉 Relive my **GitHub Wrapped**: [See My Year in Code](https://wrapped.github.com/suman1040)
 
 
 - 🏆 **GitHub Trophy** (More Achievements):  

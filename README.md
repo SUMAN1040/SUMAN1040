@@ -47,7 +47,7 @@
   <a href="https://stackoverflow.com/users/25301567"><img src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
   <a href="https://www.leetcode.com/zt3vt4tkpk"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://medium.com/@suman1040"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://www.youtube.com/c/innox1040"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@innox1040"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---

@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway+Code&weight=600&size=22&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=700&height=50&lines=🚀+Android+Developer;🤖+AI+%26+ML+Enthusiast;💡+Tech+Innovator;🔥+Pushing+Limits;🌍+Building+for+Impact!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway+Code&weight=600&size=22&duration=2500&pause=500&color=FF4500&center=true&vCenter=true&width=700&height=50&lines=🚀+Android+Developer;🤖+AI+%26+ML+Enthusiast;💡+Tech+Innovator;🔥+Pushing+Limits;🌍+Building+for+Impact!" alt="Typing SVG" />
 </p>
 
 ---

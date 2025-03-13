@@ -6,13 +6,8 @@
 
 
 
-
-
-
-
-
-
 <h3 align="center">A Passionate Android Developer</h3>
+
 
 
 
@@ -20,25 +15,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway+Code&weight=600&size=22&duration=1000&pause=800&color=FF4500&center=true&vCenter=true&width=700&height=50&lines=🚀+Android+Developer;🤖+AI+%26+ML+Enthusiast;💡+Tech+Innovator;🔥+Pushing+Limits;🌍+Building+for+Impact!" alt="Typing SVG" />
 </p>
 
+---
 
 
 
-
-
+📊 GitHub Stats
+<div align="center"> <a href="https://github.com/suman1040"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman1040&theme=tokyonight&hide_border=true&border_radius=10&fire=F75C7E&ring=FFCC00" width="48%" /> </a> <a href="https://github.com/suman1040"> <img src="https://github-readme-stats.vercel.app/api?username=suman1040&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" /> </a> </div>
+💻 Languages & Contributions
+<div align="center"> <a href="https://github.com/suman1040"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suman1040&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&langs_count=8" width="48%" /> </a> </div>
+🌟 Contribution Activity
+<div align="center"> <a href="https://github.com/suman1040"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman1040&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6600&line=F75C7E&point=FFFFFF" width="90%" /> </a> </div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman1040&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suman1040&show_icons=true&theme=react&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suman1040&show_icons=true&theme=react&layout=compact&hide_border=true" width="48%" />
-</p>
 
----
+
+
 
 ### 🌍 Connect with Me
 <p align="center">
@@ -52,12 +45,24 @@
 
 ---
 
-### 🚀 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,cpp,c,git,github,linux,mysql,firebase,figma,sqlite,arduino,vscode" />
-</p>
+
+
+
+
+
+
+
+🚀 Languages & Tools
+<p align="center"> <a href="https://developer.android.com/studio" target="_blank"> <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="50" /> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" width="50" /> </a> <a href="https://www.java.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=java" title="Java" width="50" /> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" title="Python" width="50" /> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50" /> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://skillicons.dev/icons?i=c" title="C" width="50" /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" /> </a> <a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" /> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="50" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" /> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="50" /> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" /> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" width="50" /> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" width="50" /> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" /> </a> </p>
 
 ---
+
+
+
+
+
+
+
 
 ### 🎮 Fun & Dynamic Stuff
 - 🔥 Check out my **3D GitHub Skyline**: [My Contributions in 3D](https://skyline.github.com/suman1040)

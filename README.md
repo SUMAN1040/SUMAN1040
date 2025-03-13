@@ -65,7 +65,8 @@
 
 
 ### 🎮 Fun & Dynamic Stuff
-🚀 Explore my **GitHub Contribution Graph**: [See My Activity](https://github.com/suman1040/graph)
+🌟 Discover my **GitHub Heatmap**: [Check it Out](https://github.com/suman1040/heatmap)
+
 
 
 - 🏆 **GitHub Trophy** (More Achievements):  

@@ -65,7 +65,8 @@
 
 
 ### 🎮 Fun & Dynamic Stuff
-- 🔥 Check out my **3D GitHub Skyline**: [My Contributions in 3D](https://skyline.github.com/suman1040)
+🔥 Check out my **GitHub Profile Summary**: [View Insights](https://profile-summary-for-github.com/user/suman1040)
+
 - 🏆 **GitHub Trophy** (More Achievements):  
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=suman1040&theme=onedark&no-frame=true&margin-w=15" />

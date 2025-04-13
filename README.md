@@ -1,3 +1,10 @@
+<img src="https://github.com/SUMAN1040/SUMAN1040/blob/main/DEV.gif?raw=true" width="100%" alt="GIF Title">
+
+
+
+
+
+
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=1&pause=8000000000&color=00ccff&center=true&vCenter=true&width=600&height=50&lines=👋+Hey,+I'm+Suman+Kumar+Dey!">

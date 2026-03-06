@@ -15,31 +15,35 @@
 
 
 
-<h3 align="center">A Passionate Android Developer</h3>
+<h3 align="center">A Passionate Developer</h3>
 
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway+Code&weight=600&size=22&duration=2500&pause=500&color=FF4500&center=true&vCenter=true&width=700&height=50&lines=🚀+Android+Developer;🤖+AI+%26+ML+Enthusiast;💡+Tech+Innovator;🔥+Pushing+Limits;🌍+Building+for+Impact!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway+Code&weight=600&size=22&duration=2500&pause=500&color=FF4500&center=true&vCenter=true&width=700&height=50&lines=🚀+Developer;🤖+AI+%26+ML+Enthusiast;💡+Tech+Innovator;🔥+Pushing+Limits;🌍+Building+for+Impact!" alt="Typing SVG" />
 </p>
 
 ---
 
 
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suman1040&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-💻 Languages & Contributions
-<div align="center"> <a href="https://github.com/suman1040"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suman1040&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&langs_count=8" width="48%" /> </a> </div>
-🌟 Contribution Insights
+## 📊 GitHub Analytics
 <div align="center">
-  <a href="https://github.com/suman1040">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman1040&bg_color=000000&color=f1c40f&line=ff5733&point=ffffff&area=true&hide_border=true&theme=high-contrast" width="90%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suman1040&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suman1040&theme=tokyonight" width="48%" />
+</div>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=suman1040&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman1040&theme=tokyo-night&hide_border=true"/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suman1040&theme=tokyonight" width="95%"/>
 </div>
 
 ---

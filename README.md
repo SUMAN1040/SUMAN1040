@@ -1,7 +1,6 @@
 <img src="https://github.com/SUMAN1040/SUMAN1040/blob/main/DEV.gif?raw=true" width="100%" alt="GIF Title">
 
 
-
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=1&pause=8000000000&color=00ccff&center=true&vCenter=true&width=600&height=50&lines=👋+Hey,+I'm+Suman+Kumar+Dey!">
@@ -42,9 +41,6 @@
 
 
 
-
-
-
 ### 🌍 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/suman1040"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -65,10 +61,6 @@
 <p align="center"> <a href="https://developer.android.com/studio" target="_blank"> <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="50" /> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" width="50" /> </a> <a href="https://www.java.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=java" title="Java" width="50" /> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" title="Python" width="50" /> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50" /> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://skillicons.dev/icons?i=c" title="C" width="50" /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" /> </a> <a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" /> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="50" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" /> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="50" /> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" /> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" width="50" /> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" width="50" /> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" /> </a> </p>
 
 ---
-
-
-
-
 
 
 
